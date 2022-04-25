@@ -1,0 +1,48 @@
+body{
+        background-color: #686868;
+}
+#main_div{
+    width: 70%;
+    background-color: #a0a0a0;
+    border-radius: 15px;
+    margin:auto;
+    margin-top: 2%;
+
+}
+#title {
+    text-align: center;
+    font-family: Coiny, sans-serif;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px white;
+}
+#image {
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 10px 10px 5px grey;
+  }
+  hr {
+    width: 50%;
+  }
+  #img-caption {
+    text-align: center;
+    font-family: Coiny;
+  }
+.intro{
+    font-family: Coiny;
+    text-align: center;
+    list-style-type: none;
+}
+.abt {
+    font-family: Coiny;
+    margin-left: 3%;
+    text-shadow: 5px 5px 5px #787878;
+  }
+  .tribute-info {
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: Sans-serif;
+  }
